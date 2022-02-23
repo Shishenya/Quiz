@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 30c638f825d1f9544bfbe1bf7ccbd839, type: 3}
+  m_Name: HIstory1945
+  m_EditorClassIdentifier: 
+  nameCategory: "\u0418\u0441\u0442\u043E\u0440\u0438\u044F 1945 \u0433\u043E\u0434\u0430"
+  spriteCategory: {fileID: 21300000, guid: b8330f89d23ae9a478c4457c827936ba, type: 3}
+  questionsCategory:
+  - {fileID: 11400000, guid: 45c2780625fd7c44499125a0fbaa5bf9, type: 2}
+  - {fileID: 11400000, guid: 2c0da10e7c8170e48bee03aac7baf91b, type: 2}
